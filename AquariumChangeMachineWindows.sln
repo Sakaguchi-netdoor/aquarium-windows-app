@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquariumChangeMachineWindows", "AquariumChangeMachineWindows\AquariumChangeMachineWindows.csproj", "{36572831-ADF4-4F82-ADE6-C7D45470896B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80257002-E422-4387-A70F-81D1A0623079}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aquarium-windows-api", "aquarium-windows-api\aquarium-windows-api.csproj", "{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Debug|x86.Build.0 = Debug|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Release|x86.ActiveCfg = Release|Win32
+		{36572831-ADF4-4F82-ADE6-C7D45470896B}.Release|x86.Build.0 = Release|Win32
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Debug|x86.ActiveCfg = Debug|x86
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Debug|x86.Build.0 = Debug|x86
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Release|x86.ActiveCfg = Release|x86
+		{EC8A5FC6-35ED-4D49-8AC4-E826F50F1963}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6185FB8-592F-4B98-B3E3-1630AB6EEDE9}
+	EndGlobalSection
+EndGlobal
